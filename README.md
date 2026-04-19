@@ -1,8 +1,8 @@
-# Portfolio Template - React + TypeScript
+<img width="1338" height="623" alt="image" src="https://github.com/user-attachments/assets/af30a5c4-8d28-44e3-ab05-80a81f7a4245" /># Portfolio Template - React + TypeScript
 
 A modern, dark-themed portfolio template built with React, TypeScript, and Vite. Perfect for developers and tech professionals.
 
-![Portfolio Preview](https://via.placeholder.com/800x400/1c1c22/00ff99?text=Portfolio+Template)
+<img width="1338" height="623" alt="image" src="https://github.com/user-attachments/assets/83972b88-6e67-48a9-a647-1641363839ee" />
 
 ## Features
 
